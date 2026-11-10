@@ -1,0 +1,13 @@
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 편집기와 도구 설정
+.vscode/
+.idea/
+.claude/
+
+# 로컬 도구를 쓸 때 생기는 파일
+node_modules/
+*.log
